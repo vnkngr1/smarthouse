@@ -1,0 +1,6 @@
+# ninja log v6
+624	719	1732954596506490665	smarthouse	b680be3c86fad51
+5	624	1732954595886960624	CMakeFiles/smarthouse.dir/main.cpp.o	9f2b80fef32b4cb5
+2	73	1732957055378917097	build.ninja	302958e557f160f7
+5	556	1732953355650949887	CMakeFiles/smarthouse.dir/classes_help.cpp.o	57f926a161ffd97
+6	658	1732954571111512514	CMakeFiles/smarthouse.dir/basicdevice_scanrio.cpp.o	d2cda08373de643c
